@@ -1,0 +1,30 @@
+{
+  "name": "maegnets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "maegnets",
+  "author": "Dmitry Dergunov",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "gatsby": "^4.5.4",
+    "gatsby-plugin-emotion": "^7.6.0",
+    "gatsby-plugin-google-analytics": "^4.6.0",
+    "gatsby-plugin-manifest": "^4.6.0",
+    "gatsby-plugin-react-helmet": "^5.6.0",
+    "gatsby-plugin-sitemap": "^5.6.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0"
+  }
+}
